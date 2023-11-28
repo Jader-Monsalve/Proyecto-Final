@@ -1,0 +1,176 @@
+* {
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  //contenedor de descripción de apartamentos
+  
+  .container-1 {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 8px 6px 20px rgba(9, 9, 121, 1);
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+  
+  }
+  
+  .titulo-1 {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Stick No Bills', sans-serif;
+    font-family: 'Young Serif', serif;
+  }
+  
+  .texto {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 55px;
+  }
+  
+  .claro {
+    margin-left: 30px;
+  }
+  
+  .sub {
+    margin-left: 30px;
+  
+  }
+  
+  ul {
+    margin-left: 30px;
+  
+  }
+  
+  //desde acá empieza el contenedor de los apartamentos
+  
+  .titl-apa {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .titl-ap {
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Stick No Bills', sans-serif;
+    font-family: 'Young Serif', serif;
+  }
+  
+  .container-2 {
+    padding: 5px 10px;
+    display: inline-block;
+    margin-left: 30px;
+    width: 20%;
+    height: auto;
+    margin-right: 20px;
+    margin-top: 50px;
+  }
+  
+  .apart {
+    display: flex;
+    margin-left: 35px;
+    margin-top: 50px;
+    width: 80%;
+    border: solid 1px white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(148, 148, 148);
+  }
+  
+  .ap-com {
+    text-decoration: none;
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+    color: aliceblue;
+    background: rgb(70,60,244);
+    background: linear-gradient(90deg, rgba(70,60,244,1) 0%, rgba(86,60,244,1) 100%);
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 5px 1px 1px 5px;
+    box-shadow: 5px 5px 8px rgb(148, 148, 148);
+  }
+  
+  .nom-apa {
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 40px;
+  }
+  
+  .ubi {
+    margin-left: 40px;
+    margin-top: 10px;
+  }
+  
+  .valor {
+    margin-left: 40px;
+    margin-top: 10px;
+  }
+  
+  .horizontal-line {
+    margin-top: 30px;
+    margin-left: 40px;
+    border-bottom: 1px solid #d6d6d6;
+    width: 80%;
+  }
+  
+  .desc {
+    display: flex;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 40px;
+  }
+  
+  .desc-ap {
+    display: flex;
+    margin-left: 100px;
+    font-size: 15px;
+    margin-top: -60px;
+    margin-right: 150px;
+  }
+  
+  .num-ap {
+    display: none;
+    margin-top: -100px;
+    margin-left: 250px;
+    font-size: 20px;
+  }
+  
+  .container-4 {
+    padding: 5px 10px;
+    display: inline-block;
+    margin-left: 30px;
+    width: 20%;
+    height: auto;
+    margin-right: 20px;
+    margin-top: 50px;
+  }
+  
+  .horizontal-line-1 {
+    margin-top: 30px;
+    margin-left: 5%;
+    border-bottom: 1px solid #d6d6d6;
+    width: 90%;
+  }
+  
+  .titl-fin {
+    margin-top: 5%;
+    text-align: center;
+  }
+  
+  .titl-fi {
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Stick No Bills', sans-serif;
+    font-family: 'Young Serif', serif;
+  }

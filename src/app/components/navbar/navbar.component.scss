@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+nav {
+    background: rgb(70,60,244);
+background: linear-gradient(90deg, rgba(70,60,244,1) 0%, rgba(86,60,244,1) 100%);
+    height: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-brand:hover {
+    color: #b3b3b3;
+    transition: 0ms;
+    -webkit-transition: 0ms;
+    -moz-transition: 0ms;
+    -ms-transition: 0ms;
+    -o-transition: 0ms;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #b3b3b3;
+}

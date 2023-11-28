@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    width: 70%;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 8px 6px 20px rgba(9, 9, 121, 1);
+    color: white;
+    
+    margin-top: 50px;
+  }
+  
+  .hist, .vis-mis {
+    max-width: 600px; /* Ajusta el ancho máximo según tus necesidades */
+    margin: 0 auto;   /* Esto centrará el bloque dentro del contenedor */
+  }
+  
+  .title, .sub {
+    color: #333;  /* Cambia el color del texto según tu diseño */
+  }
+  
+  .text {
+    line-height: 1.5;
+    color: #666;  /* Cambia el color del texto según tu diseño */
+  }
+  
